@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluacion AyE", "Evaluacion AyE\Evaluacion AyE.csproj", "{997EDF25-EDDA-4D29-9106-B609265918AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997EDF25-EDDA-4D29-9106-B609265918AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997EDF25-EDDA-4D29-9106-B609265918AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997EDF25-EDDA-4D29-9106-B609265918AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997EDF25-EDDA-4D29-9106-B609265918AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC4DE9D8-DE16-4372-A0E5-6E5A059D9737}
+	EndGlobalSection
+EndGlobal
